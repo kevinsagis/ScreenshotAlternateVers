@@ -1,0 +1,406 @@
+{
+  "layerInfos": [
+    {
+      "name": "Street Centerlines",
+      "id": "BOAInternal_2015_7891_36",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/36"
+      },
+      "show": true
+    },
+    {
+      "name": "Buildings",
+      "id": "BOAInternal_2015_7891_37",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/37"
+      },
+      "show": false
+    },
+    {
+      "name": "TAX PARCELS",
+      "id": "BOAInternal_2015_7891_43",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/43"
+      },
+      "show": true
+    },
+    {
+      "name": "Neighborhoods Labels",
+      "id": "BOAInternal_2015_7891_44",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/44"
+      },
+      "show": false
+    },
+    {
+      "name": "Neighborhoods",
+      "id": "BOAInternal_2015_7891_45",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/45"
+      },
+      "show": false
+    },
+    {
+      "name": "1998",
+      "id": "BOAInternal_2015_7891_46",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/46"
+      },
+      "show": false
+    },
+    {
+      "name": "SAGIS.SAGIS.AnnoMap1999",
+      "id": "BOAInternal_2015_7891_48",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/48"
+      },
+      "show": false
+    },
+    {
+      "name": "SAGIS.SAGIS.AnnoMapNo1999",
+      "id": "BOAInternal_2015_7891_49",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/49"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_1999",
+      "id": "BOAInternal_2015_7891_50",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/50"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2000",
+      "id": "BOAInternal_2015_7891_52",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/52"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMap2000",
+      "id": "BOAInternal_2015_7891_53",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/53"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMapNo2000",
+      "id": "BOAInternal_2015_7891_54",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/54"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2000",
+      "id": "BOAInternal_2015_7891_55",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/55"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2001",
+      "id": "BOAInternal_2015_7891_57",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/57"
+      },
+      "show": false
+    },
+    {
+      "name": "SAGIS.SAGIS.AnnoMap2001",
+      "id": "BOAInternal_2015_7891_58",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/58"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMapNo2001",
+      "id": "BOAInternal_2015_7891_59",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/59"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2001",
+      "id": "BOAInternal_2015_7891_60",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/60"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2002",
+      "id": "BOAInternal_2015_7891_62",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/62"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMap2002",
+      "id": "BOAInternal_2015_7891_63",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/63"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMapNo2002",
+      "id": "BOAInternal_2015_7891_64",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/64"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2002",
+      "id": "BOAInternal_2015_7891_65",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/65"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2003",
+      "id": "BOAInternal_2015_7891_67",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/67"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMap2003",
+      "id": "BOAInternal_2015_7891_68",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/68"
+      },
+      "show": false
+    },
+    {
+      "name": "AnnoMapNo2003",
+      "id": "BOAInternal_2015_7891_69",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/69"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2003",
+      "id": "BOAInternal_2015_7891_70",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/70"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2004",
+      "id": "BOAInternal_2015_7891_72",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/72"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2004",
+      "id": "BOAInternal_2015_7891_75",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/75"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2005",
+      "id": "BOAInternal_2015_7891_78",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/78"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2005",
+      "id": "BOAInternal_2015_7891_79",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/79"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2006",
+      "id": "BOAInternal_2015_7891_82",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/82"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2006",
+      "id": "BOAInternal_2015_7891_83",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/83"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2007",
+      "id": "BOAInternal_2015_7891_86",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/86"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2007",
+      "id": "BOAInternal_2015_7891_87",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/87"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2008",
+      "id": "BOAInternal_2015_7891_90",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/90"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2008",
+      "id": "BOAInternal_2015_7891_91",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/91"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2009",
+      "id": "BOAInternal_2015_7891_95",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/95"
+      },
+      "show": false
+    },
+    {
+      "name": "Boaannomap2010",
+      "id": "BOAInternal_2015_7891_99",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/99"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2010",
+      "id": "BOAInternal_2015_7891_100",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/100"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2011",
+      "id": "BOAInternal_2015_7891_104",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/104"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2012",
+      "id": "BOAInternal_2015_7891_108",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/108"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2013",
+      "id": "BOAInternal_2015_7891_112",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/112"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2014",
+      "id": "BOAInternal_2015_7891_118",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/118"
+      },
+      "show": false
+    },
+    {
+      "name": "Parcel_2015",
+      "id": "BOAInternal_2015_7891_124",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/124"
+      },
+      "show": false
+    },
+    {
+      "name": "Addressing",
+      "id": "BOAInternal_2015_7891_125",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/125"
+      },
+      "show": true
+    },
+    {
+      "name": "Zoning",
+      "id": "BOAInternal_2015_7891_138",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/138"
+      },
+      "show": false
+    },
+    {
+      "name": "Floodzone",
+      "id": "BOAInternal_2015_7891_139",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/139"
+      },
+      "show": false
+    },
+    {
+      "name": "NWI Wetlands",
+      "id": "BOAInternal_2015_7891_140",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/140"
+      },
+      "show": false
+    },
+    {
+      "name": "Wetlands ADID",
+      "id": "BOAInternal_2015_7891_141",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/141"
+      },
+      "show": false
+    },
+    {
+      "name": "Chatham County",
+      "id": "BOAInternal_2015_7891_142",
+      "layer": {
+        "url": "http://maps.sagis.local/arcgis/rest/services/BOA/BOAInternal_2015/MapServer/142"
+      },
+      "show": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false,
+  "initiallyExpand": false
+}

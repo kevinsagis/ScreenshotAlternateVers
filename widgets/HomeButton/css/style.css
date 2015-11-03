@@ -1,0 +1,31 @@
+  .jimu-widget-homebutton {
+  left: 7px!important;
+    top: 140px!important;
+    right: auto!important;
+    bottom: auto!important;
+    width: auto!important;
+    height: auto!important;
+    position: absolute!important;
+}
+
+
+.jimu-widget-homebutton {
+	background-color: rgba(255,255,255,0.3);
+	border-radius: 5px;
+}
+
+.jimu-widget-homebutton .HomeButton .home {
+  background-color: rgba(0,0,0,0.2);
+}
+
+.jimu-widget-homebutton.inHome {
+	background-color: #000;
+}
+
+.jimu-widget-homebutton .HomeButton .home:hover {
+  background-color: rgba(0,0,0,0.4);
+}
+
+.jimu-widget-homebutton.inHome .HomeButton .home {
+	background-color: #000;
+}

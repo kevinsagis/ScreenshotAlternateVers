@@ -1,0 +1,21 @@
+{
+  "geocoder": {
+    "autoComplete": true,
+    "minCharacters": 3,
+    "arcgisGeocoder": false,
+    "geocoders": [
+      {
+        "url": "http://sagisservices.thempc.org/saint/rest/services/Locator/MAD/GeocodeServer",
+        "name": "SAGIS Address Points",
+        "singleLineFieldName": "Single Line Input",
+        "placeholder": "110 E State St"
+      },
+      {
+        "url": "http://sagisservices.thempc.org/saint/rest/services/Locator/CENTERLINES/GeocodeServer",
+        "name": "SAGIS Centerlines",
+        "singleLineFieldName": "Single Line Input",
+        "placeholder": "110 E State St"
+      }
+    ]
+  }
+}
